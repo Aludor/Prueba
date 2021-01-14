@@ -9,3 +9,11 @@ con diff
 Solo se puede ver esto
 
 en master
+
+Estos cambios solo son visibles en
+
+la rama develop mientras no se haga
+
+un merge
+
+Ahora se pueden ver los cambios de las dos ramas
