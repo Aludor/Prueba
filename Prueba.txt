@@ -1,0 +1,7 @@
+Este archivo estaba en el 
+
+repositorio remoto de github
+
+y ahora ya se puede hacer push
+
+por medio de ssh
