@@ -1,3 +1,7 @@
 Esto es una prueba
 
 para git
+
+Prueba para ver la diferencia
+
+con diff
