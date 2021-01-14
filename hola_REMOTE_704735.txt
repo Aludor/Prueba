@@ -1,0 +1,13 @@
+Esto es una prueba
+
+para git
+
+Prueba para ver la diferencia
+
+con diff
+
+Estos cambios solo son visibles en
+
+la rama develop mientras no se haga
+
+un merge

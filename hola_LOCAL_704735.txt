@@ -1,0 +1,11 @@
+Esto es una prueba
+
+para git
+
+Prueba para ver la diferencia
+
+con diff
+
+Solo se puede ver esto
+
+en master
