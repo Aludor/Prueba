@@ -5,3 +5,7 @@ repositorio remoto de github
 y ahora ya se puede hacer push
 
 por medio de ssh
+
+Estos son cambios para probar
+
+el comando stash
